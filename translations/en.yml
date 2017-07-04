@@ -6,6 +6,84 @@ packages:
 
 parts:
   - translation:
+      key: "txt.apps.notification_app.app.name"
+      title: "Name for App: Notification App"
+      value: "Notification App"
+  - translation:
+      key: "txt.apps.notification_app.app.short_description"
+      title: "Description for App: Notification App"
+      value: "Broadcast a message to all the agents signed in to your Zendesk account"
+  - translation:
+      key: "txt.apps.notification_app.app.long_description"
+      title: "Long Description for App: Notification App"
+      value: "Key points:
+
+
+* Easily notify a group of agents or all the agents signed in to your Zendesk account
+
+* Share pictures, memes, links, or other useful or fun resources
+
+* Proactively let agents know important information about their work
+
+
+Description:
+
+
+The Notification app enables Zendesk administrators to broadcast messages to some or all of your Zendesk agents. For example, quickly let your team know about an outage or easily invite the team out to lunch.  Simply open the app, type a message, select the group, and click send! The app will pop open and display messages to all signed-in agents in real time.  Messages history is stored in the app until they log out of Zendesk.
+
+
+Use the Notification app to keep the company apprised of critical information, real-time.  
+
+
+![Example Notification](https://zen-marketing-documentation.s3.amazonaws.com/docs/en/notification_app.gif)
+
+
+By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://www.zendesk.com/company/built-by-zendesk-agmt/)."
+  - translation:
+      key: "txt.apps.notification_app.app.installation_instructions"
+      title: "Installation Instructions for App: Notification App"
+      value: "### Installing the app:
+
+
+1. Sign in to your Zendesk, then click the **Admin** icon in the sidebar.  
+
+2. Select **Apps** > **Marketplace**, then find the **Notification app** and click the title. 
+
+3. On the Notification app page, click **Install app** in the upper-right corner.  
+
+4. When the installation is complete, you can now broadcast messages to your signed-in agents.  
+
+
+**Note:** Only Zendesk administrators can broadcast messages.
+
+
+### Using the app:
+
+
+1. When signed in to Zendesk, expand the app located in the top bar.
+
+2. Enter the message you want to broadcast.
+
+3. Select the group you want to send it to (if you leave it blank, it will be sent to all signed-in agents).
+
+4. Click Broadcast.  Your message will pop open the app for all signed-in agents.  
+
+
+Messages in the Notification app support a subset of Markdown.  For more information about Markdown, see [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/).  URLs are also automatically detected and turned into links or images (but you can still use Markdown if you’d like). Markdown is supported for the following:
+
+
+* links
+
+* images
+
+* bold
+
+* italic
+
+* level 3 headings
+
+"
+  - translation:
       key: "txt.apps.notification_app.button.cancel"
       title: "The button to click on cancel.https://zendesk.box.com/s/oan0oc4al5be138zmu3b9iwiudjqav9k"
       screenshot: "https://zendesk.box.com/s/oan0oc4al5be138zmu3b9iwiudjqav9k"
