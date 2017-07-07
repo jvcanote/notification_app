@@ -19,9 +19,9 @@ parts:
       value: "Key points:
 
 
-* Easily notify a group of agents or all the agents signed in to your Zendesk account
+* Easily notify a group of agents or all the agents signed into your Zendesk account
 
-* Share pictures, memes, links, or other useful or fun resources
+* Share pictures, links, or other useful or fun resources
 
 * Proactively let agents know important information about their work
 
@@ -29,7 +29,7 @@ parts:
 Description:
 
 
-The Notification app enables Zendesk administrators to broadcast messages to some or all of your Zendesk agents. For example, quickly let your team know about an outage or easily invite the team out to lunch.  Simply open the app, type a message, select the group, and click send! The app will pop open and display messages to all signed-in agents in real time.  Messages history is stored in the app until they log out of Zendesk.
+The Notification app enables Zendesk administrators to broadcast messages to some or all of your agents. For example, quickly let your team know about an outage or easily invite the team out to lunch.  Simply open the app, type a message, select the group, and click send. The app will pop open and display messages to all signed-in agents in real time.  Messages history is stored in the app until they sign out of Zendesk.
 
 
 Use the Notification app to keep the company apprised of critical information, real-time.  
@@ -45,7 +45,7 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
       value: "### Installing the app:
 
 
-1. Sign in to your Zendesk, then click the **Admin** icon in the sidebar.  
+1. Sign in to your Zendesk Support, then click the **Admin** icon in the sidebar.  
 
 2. Select **Apps** > **Marketplace**, then find the **Notification app** and click the title. 
 
@@ -64,23 +64,23 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
 
 2. Enter the message you want to broadcast.
 
-3. Select the group you want to send it to (if you leave it blank, it will be sent to all signed-in agents).
+3. Select the group you want to send it to. If you leave the group blank, it will be sent to all signed-in agents.
 
-4. Click Broadcast.  Your message will pop open the app for all signed-in agents.  
-
-
-Messages in the Notification app support a subset of Markdown.  For more information about Markdown, see [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/).  URLs are also automatically detected and turned into links or images (but you can still use Markdown if you’d like). Markdown is supported for the following:
+4. Click Broadcast. Your message will open the app for all signed-in agents.  
 
 
-* links
+Messages in the Notification app support a subset of Markdown. For more information about Markdown, see [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/).  URLs are also automatically detected and turned into links or images, but you can still use Markdown if you’d like. Markdown is supported for the following:
 
-* images
 
-* bold
+* Links
 
-* italic
+* Images
 
-* level 3 headings
+* Bold
+
+* Italic
+
+* Level 3 headings
 
 "
   - translation:
