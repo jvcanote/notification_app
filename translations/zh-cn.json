@@ -1,4 +1,10 @@
 {
+  "app": {
+    "name": "通知应用",
+    "short_description": "向所有登录到您 Zendesk 帐户的专员发送一条消息",
+    "long_description": "重点：\n\n* 方便地通知已登录您 Zendesk 帐户的专员组或所有专员\n* 共享图片、链接或其它有用或有趣的资源\n* 积极主动地把与工作相关的重要信息告诉专员\n\n描述：\n\n通知应用使 Zendesk 管理员可广播消息给您的某些或所有专员。例如，快速通知团队发生的故障，或方便地邀请团队外出午餐。 只要打开应用，输入一条消息，选择组，再单击发送即可。该应用会打开，并实时向所有的已登录专员显示消息。 消息记录储存在应用中，直至专员退出 Zendesk。\n\n使用通知应用使整个公司实时了解到重要的信息。\n\n![通知范例](https://zen-marketing-documentation.s3.amazonaws.com/docs/en/notification_app.gif)\n\n启用此应用即表示您同意 [Zendesk 自建使用条款](https://www.zendesk.com/company/built-by-zendesk-agmt/)。",
+    "installation_instructions": "### 安装应用：\n\n1.登录您的 Zendesk Support，然后单击侧栏中的**管理员**图标。    \n2.选择 **应用** > **市场**，然后查找**通知应用**，再单击标题。\n3.在通知应用页面上，单击右上角的**安装应用**。\n4.当安装完成后，您即可广播消息给您的已登录专员。\n\n**注释：**只有 Zendesk 管理员可以广播消息。\n\n### 使用应用：\n\n1.登录 Zendesk 后，展开位于顶栏中的应用。\n2.输入您要广播的消息。\n3.选择您要发送的组。如果留空，则发送给所有已登录专员。\n4.单击“广播”。您的消息将会打开所有已登录专员的应用。\n\n通知应用中的消息支持 Markdown 子集。如需更多关于 Markdown 的信息，请参阅 [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)。 还会自动检测 URL，并将其转为链接或图像（但是如果您希望的话，仍可使用 Markdown）。以下支持 Markdown：\n\n* 链接\n* 图像\n* 加粗\n* 倾斜\n* 3 级标题\n"
+  },
   "button": {
     "cancel": "取消",
     "imageInput": "添加图像链接",

@@ -1,7 +1,13 @@
 {
+  "app": {
+    "name": "app Meldingen",
+    "short_description": "Stuur een bericht naar alle agenten die bij uw Zendesk-account zijn aangemeld",
+    "long_description": "Belangrijkste punten:\n\n* Eenvoudig een groep agenten of alle bij uw Zendesk-account aangemelde agenten informeren\n* Afbeeldingen, koppelingen of andere nuttige of leuke informatie delen\n* Agenten proactief op de hoogte brengen van belangrijke informatie voor hun werk\n\nBeschrijving:\n\nMet de app Meldingen kunnen Zendesk-administrators berichten naar enkele of al uw agenten uitzenden. Zo kunt u uw team snel laten weten dat bepaalde systemen zijn uitgevallen, of kunt u iedereen uitnodigen voor een lunch.  Open de app, typ een bericht, selecteer de groep en verzend het bericht. De app wordt direct bij alle aangemelde agenten geopend en het bericht wordt weergegeven.  De berichtgeschiedenis wordt in de app bewaard tot de agenten zich bij Zendesk afmelden.\n\nMet de app Meldingen kunt u uw bedrijf direct op de hoogte brengen van cruciale informatie.  \n\n![Voorbeeld van een melding](https://zen-marketing-documentation.s3.amazonaws.com/docs/en/notification_app.gif)\n\nDoor deze app in te schakelen, gaat u akkoord met de [Gebruiksvoorwaarden van Gemaakt door Zendesk](https://www.zendesk.com/company/built-by-zendesk-agmt/).",
+    "installation_instructions": "### De app installeren:\n\n1. Meld u aan bij uw Zendesk Support-account en klik op het pictogram **Admin** op de zijbalk.  \n2. Selecteer **Apps** > **Marketplace**, zoek de **app Meldingen** en klik op de tegel. \n3. Klik op de pagina van de app Meldingen op **App installeren** rechtsboven.  \n4. Nadat de installatie is voltooid, kunt u berichten uitzenden naar uw aangemelde agenten.  \n\n**Opmerking:** Alleen Zendesk-administrators kunnen berichten uitzenden.\n\n### De app gebruiken:\n\n1. Vouw de app op de bovenbalk uit wanneer u bent aangemeld bij Zendesk.\n2. Geef het bericht op dat u wilt uitzenden.\n3. Selecteer de groep waarnaar u het bericht wilt verzenden. Als u de groep leeg laat, wordt het bericht naar alle aangemelde agenten verzonden.\n4. Klik op Uitzenden. Met het verzenden van uw bericht wordt de app bij alle aangemelde agenten geopend.  \n\nBerichten in de app Meldingen bieden support voor een subset van Markdown. Voor meer informatie over Markdown, verwijzen we u naar [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/).  Webadressen worden ook automatisch gedetecteerd en omgezet in koppelingen of afbeeldingen, maar u kunt gewoon Markdown gebruiken als u dat wilt. Markdown biedt support voor het volgende:\n\n* koppelingen\n* afbeeldingen\n* vet\n* cursief\n* kopteksten van niveau 3\n"
+  },
   "button": {
     "cancel": "Annuleren",
-    "imageInput": "Afbeeldingskoppeling toevoegen",
+    "imageInput": "Afbeeldingslink toevoegen",
     "sendMessage": "Verzenden naar iedereen",
     "toAdmin": "Nieuw bericht"
   },
