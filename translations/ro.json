@@ -1,4 +1,10 @@
 {
+  "app": {
+    "name": "Aplicația Notificare",
+    "short_description": "Difuzați un mesaj tuturor agenților autentificați în contul dumneavoastră Zendesk",
+    "long_description": "Aspecte-cheie:\n\n* Notificați cu ușurință un grup de agenți sau toți agenții autentificați în contul dumneavoastră Zendesk\n* Partajați imagini, link-uri sau alte resurse utile sau amuzante\n* Înștiințați în mod proactiv agenții cu privire la informațiile importante legate de activitatea lor\n\nDescriere:\n\nAplicația Notificare permite administratorilor Zendesk să difuzeze mesaje către o parte sau toți agenții dumneavoastră. De exemplu, vă anunțați rapid echipa cu privire la o defecțiune sau îi invitați cu ușurință pe membrii echipei la un prânz.  Pur și simplu deschideți aplicația, tastați un mesaj, selectați grupul și faceți clic pe trimitere. Aplicația va apărea ca o fereastră pop-up și va afișa mesajele tuturor agenților autentificați, în timp real!  Istoricul mesajelor este stocat în aplicație până când agentul se deconectează din Zendesk.\n\nUtilizați aplicația Notificare pentru a ține compania la curent cu informațiile esențiale, în timp real.   \n\n![Exemplu de notificare](https://zen-marketing-documentation.s3.amazonaws.com/docs/en/notification_app.gif)\n\nActivând această aplicație, sunteți de acord cu [Termenii de utilizare pentru produsele desemnate prin „Conceput de Zendesk”] (https://www.zendesk.com/company/built-by-zendesk-agmt/).",
+    "installation_instructions": "### Instalarea aplicației:\n\n1. Autentificați-vă în Zendesk Support, apoi faceți clic pe pictograma **Administrator** în bara laterală.  \n2. Selectați **Aplicații** > **Magazin de aplicații**, apoi găsiți **aplicația Notificare** și faceți clic pe titlu. \n3. În pagina aplicației Notificare, faceți clic pe **Instalare aplicație** în colțul din dreapta-sus.  \n4. La finalizarea instalării, puteți difuza mesaje către agenții autentificați.  \n\n**Notă:** Numai administratorii Zendesk pot difuza mesaje.\n\n### Utilizarea aplicației:\n\n1. La autentificarea în Zendesk, extindeți aplicația amplasată în bara de sus.\n2. Introduceți mesajul pe care doriți să-l difuzați.\n3. Selectați grupul către care doriți să-l trimiteți. Dacă lăsați grupul necompletat, acesta va fi trimis către toți agenții autentificați.\n4. Faceți clic pe Difuzare. Mesajul va deschide aplicația pentru toți agenții autentificați.  \n\nMesajele din aplicația Notificare acceptă un subset Markdown. Pentru mai multe informații despre Markdown, consultați [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/).  Adresele URL sunt, de asemenea, detectate automat și transformate în link-uri sau imagini, dar puteți utiliza în continuare Markdown, dacă doriți. Markdown este acceptat pentru următoarele:\n\n* Linkuri\n* Imagini\n* Caractere aldine\n* Caractere italice\n* Antete de nivel 3\n"
+  },
   "button": {
     "cancel": "Anulare",
     "imageInput": "Adăugare link imagine",
@@ -9,7 +15,7 @@
     "groups": "Grupuri"
   },
   "message": {
-    "messagePlaceholder": "Partajaţi un mesaj cu agenţii dumneavoastră. Markdown este recomandat.",
-    "placeholder": "Se aşteaptă mesajul..."
+    "messagePlaceholder": "Partajați un mesaj cu agenții dumneavoastră. Markdown este recomandat.",
+    "placeholder": "Se așteaptă mesajul..."
   }
 }

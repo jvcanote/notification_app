@@ -1,4 +1,10 @@
 {
+  "app": {
+    "name": "通知 App",
+    "short_description": "傳送一條訊息至所有登入您 Zendesk 帳戶的代理",
+    "long_description": "重點：\n\n* 便捷通知已登入您的 Zendesk 帳戶的代理小組或所有代理\n* 分享圖片、連結或其他有用或有趣的資源\n* 主動告知代理工作相關的重要資訊\n\n描述：\n\n通知 app 使 Zendesk 管理員可將訊息廣播至您的某些或所有代理。例如，將中斷資訊快速告知團隊，或便捷邀請團隊外出午餐。 您只需開啟 app，輸入一條訊息，選取小組，按一下傳送即可。將會開啟 app，向所有已登入代理顯示即時訊息。 訊息記錄儲存在 app 中，直至代理登出 Zendesk。\n\n使用通知 app 將關鍵資訊即時告知公司。\n\n![通知樣本](https://zen-marketing-documentation.s3.amazonaws.com/docs/en/notification_app.gif)\n\n啟用此 app 即表示您同意 [Zendesk 自建使用條款](https://www.zendesk.com/company/built-by-zendesk-agmt/)。",
+    "installation_instructions": "### 安裝 app：\n\n1.登入 Zendesk Support，再按一下側欄中的**管理員**圖示。\n2.選取 **App** > **Marketplace**，再尋找**通知 app** 並按一下該圖磚。\n3.在通知 app 頁面上，按一下右上角的**安裝 App**。\n4.安裝完成後，您就可廣播訊息給您的已登入代理。\n\n**備註：**僅限 Zendesk 管理員可廣播訊息。\n\n### 使用 app：\n\n1.登入 Zendesk 後，展開頂列中的 app。\n2.輸入您要廣播的訊息。\n3.選取您要傳送的小組。若留空則傳送至所有已登入代理。\n4.按一下「廣播」。您的訊息將開啟所有已登入代理的 app。\n\n通知 app 中的訊息支援 Markdown 子集。如需更多關於 Markdown 的資訊，請參閱 [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)。 另自動偵測 URL 並轉為連結或影像，但您仍可按您的偏好使用 Markdown。以下各項均支援 Markdown：\n\n* 連結\n* 影像\n* 粗體\n* 斜體\n* 第 3 階層的標題\n"
+  },
   "button": {
     "cancel": "取消",
     "imageInput": "新增影像連結",
